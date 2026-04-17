@@ -12,7 +12,7 @@
 
 | Référentiel | URL | Types d'entités couverts | Intérêt potentiel | Limites observées |
 |-------------|-----|--------------------------|-------------------|-------------------|
-| **Wikidata** | https://www.wikidata.org | Universités, Villes, Établissements | Identifiants stables (Qxxxx), multilingue, liens vers d'autres bases | Couverture incomplète pour certaines facultés marocaines |
+| **Wikidata** | https://www.wikidata.org | Universités, Villes, Établissements | Identifiants stables, multilingue, liens vers d'autres bases | Couverture incomplète pour certaines facultés marocaines |
 | **GeoNames** | https://www.geonames.org | Villes, Régions, Coordonnées géo | Identifiants géographiques standards, hiérarchie administrative | Ne couvre pas les entités "établissement" |
 | **Data.gov.ma (Référentiel MESRSI)** | https://data.gov.ma | Universités, Établissements publics | Source officielle, données à jour, contexte national | Pas d'identifiants stables, format peu structuré |
 
