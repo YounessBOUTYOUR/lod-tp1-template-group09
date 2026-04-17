@@ -5,7 +5,7 @@
 - **Module** : Linked Open Data
 - **TP** : TP1 - Introduction aux données ouvertes liées
 - **Groupe** : Groupe-09
-- **Étudiants** : (à compléter)
+- **Étudiants** : Amraoui Aymane, Draidi Oualid
 - **Date** : 2026
 
 ---
